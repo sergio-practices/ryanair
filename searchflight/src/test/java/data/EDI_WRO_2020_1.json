@@ -1,0 +1,10 @@
+{"month":1,"days":[
+{"day":18,"flights":[{"carrierCode":"FR","number":"1073","departureTime":"06:50","arrivalTime":"10:05"}]},
+{"day":2,"flights":[{"carrierCode":"FR","number":"3384","departureTime":"07:00","arrivalTime":"10:15"}]},
+{"day":4,"flights":[{"carrierCode":"FR","number":"1073","departureTime":"06:50","arrivalTime":"10:05"}]},
+{"day":21,"flights":[{"carrierCode":"FR","number":"1073","departureTime":"14:00","arrivalTime":"17:15"}]},
+{"day":7,"flights":[{"carrierCode":"FR","number":"1073","departureTime":"14:00","arrivalTime":"17:15"}]},
+{"day":25,"flights":[{"carrierCode":"FR","number":"1073","departureTime":"06:50","arrivalTime":"10:05"}]},
+{"day":11,"flights":[{"carrierCode":"FR","number":"1073","departureTime":"06:50","arrivalTime":"10:05"}]},
+{"day":28,"flights":[{"carrierCode":"FR","number":"1073","departureTime":"14:00","arrivalTime":"17:15"}]},
+{"day":14,"flights":[{"carrierCode":"FR","number":"1073","departureTime":"14:00","arrivalTime":"17:15"}]}]}

@@ -1,0 +1,11 @@
+{"month":1,"days":[
+{"day":16,"flights":[{"carrierCode":"FR","number":"8310","departureTime":"15:05","arrivalTime":"18:20"}]},
+{"day":2,"flights":[{"carrierCode":"FR","number":"8310","departureTime":"15:05","arrivalTime":"18:20"}]},
+{"day":19,"flights":[{"carrierCode":"FR","number":"8310","departureTime":"08:30","arrivalTime":"11:45"}]},
+{"day":5,"flights":[{"carrierCode":"FR","number":"8310","departureTime":"08:30","arrivalTime":"11:45"}]},
+{"day":7,"flights":[{"carrierCode":"FR","number":"770","departureTime":"12:45","arrivalTime":"16:00"}]},
+{"day":23,"flights":[{"carrierCode":"FR","number":"8310","departureTime":"15:05","arrivalTime":"18:20"}]},
+{"day":9,"flights":[{"carrierCode":"FR","number":"8310","departureTime":"15:05","arrivalTime":"18:20"}]},
+{"day":26,"flights":[{"carrierCode":"FR","number":"8310","departureTime":"08:30","arrivalTime":"11:45"}]},
+{"day":12,"flights":[{"carrierCode":"FR","number":"8310","departureTime":"08:30","arrivalTime":"11:45"}]},
+{"day":30,"flights":[{"carrierCode":"FR","number":"8310","departureTime":"15:05","arrivalTime":"18:20"}]}]}

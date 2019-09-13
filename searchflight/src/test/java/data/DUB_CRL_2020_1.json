@@ -1,0 +1,16 @@
+{"month":1,"days":[
+{"day":1,"flights":[{"carrierCode":"FR","number":"46","departureTime":"13:20","arrivalTime":"16:00"}]},
+{"day":3,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":5,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":6,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":8,"flights":[{"carrierCode":"FR","number":"46","departureTime":"13:20","arrivalTime":"16:00"}]},
+{"day":10,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":12,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":13,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":17,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":19,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":20,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":24,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":26,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":27,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]},
+{"day":31,"flights":[{"carrierCode":"FR","number":"46","departureTime":"18:50","arrivalTime":"21:30"}]}]}

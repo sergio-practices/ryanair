@@ -1,0 +1,14 @@
+{"month":12,"days":[
+{"day":3,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":5,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":7,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":10,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":12,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":14,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":17,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":19,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":21,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":24,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":26,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":28,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"14:20","arrivalTime":"15:25"}]},
+{"day":31,"flights":[{"carrierCode":"FR","number":"4106","departureTime":"13:40","arrivalTime":"14:45"}]}]}

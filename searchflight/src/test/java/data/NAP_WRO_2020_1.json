@@ -1,0 +1,10 @@
+{"month":1,"days":[
+{"day":17,"flights":[{"carrierCode":"FR","number":"1372","departureTime":"14:15","arrivalTime":"16:25"}]},
+{"day":3,"flights":[{"carrierCode":"FR","number":"1372","departureTime":"14:15","arrivalTime":"16:25"}]},
+{"day":20,"flights":[{"carrierCode":"FR","number":"1372","departureTime":"16:10","arrivalTime":"18:20"}]},
+{"day":6,"flights":[{"carrierCode":"FR","number":"1372","departureTime":"16:10","arrivalTime":"18:20"}]},
+{"day":24,"flights":[{"carrierCode":"FR","number":"1372","departureTime":"14:15","arrivalTime":"16:25"}]},
+{"day":10,"flights":[{"carrierCode":"FR","number":"1372","departureTime":"14:15","arrivalTime":"16:25"}]},
+{"day":27,"flights":[{"carrierCode":"FR","number":"1372","departureTime":"16:10","arrivalTime":"18:20"}]},
+{"day":13,"flights":[{"carrierCode":"FR","number":"1372","departureTime":"16:10","arrivalTime":"18:20"}]},
+{"day":31,"flights":[{"carrierCode":"FR","number":"1372","departureTime":"14:15","arrivalTime":"16:25"}]}]}

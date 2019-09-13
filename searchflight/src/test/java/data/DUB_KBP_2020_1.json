@@ -1,0 +1,10 @@
+{"month":1,"days":[
+{"day":16,"flights":[{"carrierCode":"FR","number":"9229","departureTime":"15:40","arrivalTime":"21:30"}]},
+{"day":2,"flights":[{"carrierCode":"FR","number":"9229","departureTime":"15:40","arrivalTime":"21:30"}]},
+{"day":19,"flights":[{"carrierCode":"FR","number":"9229","departureTime":"08:00","arrivalTime":"13:50"}]},
+{"day":5,"flights":[{"carrierCode":"FR","number":"9229","departureTime":"08:00","arrivalTime":"13:50"}]},
+{"day":23,"flights":[{"carrierCode":"FR","number":"9229","departureTime":"15:40","arrivalTime":"21:30"}]},
+{"day":9,"flights":[{"carrierCode":"FR","number":"9229","departureTime":"15:40","arrivalTime":"21:30"}]},
+{"day":26,"flights":[{"carrierCode":"FR","number":"9229","departureTime":"08:00","arrivalTime":"13:50"}]},
+{"day":12,"flights":[{"carrierCode":"FR","number":"9229","departureTime":"08:00","arrivalTime":"13:50"}]},
+{"day":30,"flights":[{"carrierCode":"FR","number":"9229","departureTime":"15:40","arrivalTime":"21:30"}]}]}

@@ -1,0 +1,11 @@
+{"month":1,"days":[
+{"day":17,"flights":[{"carrierCode":"FR","number":"7672","departureTime":"19:20","arrivalTime":"22:50"}]},
+{"day":3,"flights":[{"carrierCode":"FR","number":"7672","departureTime":"19:20","arrivalTime":"22:50"}]},
+{"day":20,"flights":[{"carrierCode":"FR","number":"7672","departureTime":"09:05","arrivalTime":"12:35"}]},
+{"day":6,"flights":[{"carrierCode":"FR","number":"7672","departureTime":"09:05","arrivalTime":"12:35"}]},
+{"day":7,"flights":[{"carrierCode":"FR","number":"498","departureTime":"13:25","arrivalTime":"16:55"}]},
+{"day":24,"flights":[{"carrierCode":"FR","number":"7672","departureTime":"19:20","arrivalTime":"22:50"}]},
+{"day":10,"flights":[{"carrierCode":"FR","number":"7672","departureTime":"19:20","arrivalTime":"22:50"}]},
+{"day":27,"flights":[{"carrierCode":"FR","number":"7672","departureTime":"09:05","arrivalTime":"12:35"}]},
+{"day":13,"flights":[{"carrierCode":"FR","number":"7672","departureTime":"09:05","arrivalTime":"12:35"}]},
+{"day":31,"flights":[{"carrierCode":"FR","number":"7672","departureTime":"19:20","arrivalTime":"22:50"}]}]}

@@ -1,0 +1,9 @@
+{"month":12,"days":[
+{"day":1,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:30","arrivalTime":"16:35"}]},
+{"day":18,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:40","arrivalTime":"16:45"}]},
+{"day":4,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:40","arrivalTime":"16:45"}]},
+{"day":22,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:30","arrivalTime":"16:35"}]},
+{"day":8,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:30","arrivalTime":"16:35"}]},
+{"day":11,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:40","arrivalTime":"16:45"}]},
+{"day":29,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:30","arrivalTime":"16:35"}]},
+{"day":15,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:30","arrivalTime":"16:35"}]}]}

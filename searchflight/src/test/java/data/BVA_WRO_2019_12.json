@@ -1,0 +1,15 @@
+{"month":12,"days":[
+{"day":1,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"21:10","arrivalTime":"23:05"}]},
+{"day":4,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"10:00","arrivalTime":"11:55"}]},
+{"day":6,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"22:00","arrivalTime":"23:55"}]},
+{"day":8,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"21:10","arrivalTime":"23:05"}]},
+{"day":11,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"10:00","arrivalTime":"11:55"}]},
+{"day":13,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"22:00","arrivalTime":"23:55"}]},
+{"day":15,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"21:10","arrivalTime":"23:05"}]},
+{"day":18,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"10:00","arrivalTime":"11:55"}]},
+{"day":20,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"22:00","arrivalTime":"23:55"}]},
+{"day":21,"flights":[{"carrierCode":"FR","number":"1753","departureTime":"20:30","arrivalTime":"22:25"}]},
+{"day":22,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"21:10","arrivalTime":"23:05"}]},
+{"day":27,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"22:00","arrivalTime":"23:55"}]},
+{"day":28,"flights":[{"carrierCode":"FR","number":"1753","departureTime":"20:30","arrivalTime":"22:25"}]},
+{"day":29,"flights":[{"carrierCode":"FR","number":"8935","departureTime":"21:10","arrivalTime":"23:05"}]}]}

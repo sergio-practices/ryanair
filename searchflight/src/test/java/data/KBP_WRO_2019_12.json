@@ -1,0 +1,13 @@
+{"month":12,"days":[
+{"day":16,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"16:10","arrivalTime":"17:00"}]},
+{"day":2,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"16:10","arrivalTime":"17:00"}]},
+{"day":18,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"12:15","arrivalTime":"13:05"}]},
+{"day":4,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"12:15","arrivalTime":"13:05"}]},
+{"day":20,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"11:15","arrivalTime":"12:05"}]},
+{"day":6,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"11:15","arrivalTime":"12:05"}]},
+{"day":23,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"16:10","arrivalTime":"17:00"}]},
+{"day":9,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"16:10","arrivalTime":"17:00"}]},
+{"day":11,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"12:15","arrivalTime":"13:05"}]},
+{"day":27,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"11:15","arrivalTime":"12:05"}]},
+{"day":13,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"11:15","arrivalTime":"12:05"}]},
+{"day":30,"flights":[{"carrierCode":"FR","number":"3138","departureTime":"16:10","arrivalTime":"17:00"}]}]}

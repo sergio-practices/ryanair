@@ -1,0 +1,11 @@
+{"month":12,"days":[
+{"day":1,"flights":[{"carrierCode":"FR","number":"8212","departureTime":"15:05","arrivalTime":"18:20"}]},
+{"day":18,"flights":[{"carrierCode":"FR","number":"8212","departureTime":"07:30","arrivalTime":"10:45"}]},
+{"day":19,"flights":[{"carrierCode":"FR","number":"416","departureTime":"06:55","arrivalTime":"10:10"}]},
+{"day":4,"flights":[{"carrierCode":"FR","number":"8212","departureTime":"07:30","arrivalTime":"10:45"}]},
+{"day":22,"flights":[{"carrierCode":"FR","number":"8212","departureTime":"15:05","arrivalTime":"18:20"}]},
+{"day":8,"flights":[{"carrierCode":"FR","number":"8212","departureTime":"15:05","arrivalTime":"18:20"}]},
+{"day":26,"flights":[{"carrierCode":"FR","number":"416","departureTime":"06:55","arrivalTime":"10:10"}]},
+{"day":11,"flights":[{"carrierCode":"FR","number":"8212","departureTime":"07:30","arrivalTime":"10:45"}]},
+{"day":29,"flights":[{"carrierCode":"FR","number":"8212","departureTime":"15:05","arrivalTime":"18:20"}]},
+{"day":15,"flights":[{"carrierCode":"FR","number":"8212","departureTime":"15:05","arrivalTime":"18:20"}]}]}

@@ -1,0 +1,10 @@
+{"month":1,"days":[
+{"day":1,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"16:15","arrivalTime":"18:20"}]},
+{"day":19,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:30","arrivalTime":"16:35"}]},
+{"day":5,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:30","arrivalTime":"16:35"}]},
+{"day":22,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:40","arrivalTime":"16:45"}]},
+{"day":8,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:40","arrivalTime":"16:45"}]},
+{"day":26,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:30","arrivalTime":"16:35"}]},
+{"day":12,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:30","arrivalTime":"16:35"}]},
+{"day":29,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:40","arrivalTime":"16:45"}]},
+{"day":15,"flights":[{"carrierCode":"FR","number":"9638","departureTime":"14:40","arrivalTime":"16:45"}]}]}

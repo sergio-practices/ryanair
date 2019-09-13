@@ -1,0 +1,9 @@
+server:
+   port: 8080
+   connection-timeout: 5s
+client:
+   url:
+      routes: https://services-api.ryanair.com/locate/3/routes
+      schedules: https://services-api.ryanair.com/timtbl/3/schedules
+timing:
+   updateData: 600000
